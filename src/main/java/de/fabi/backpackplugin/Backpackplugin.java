@@ -1,5 +1,13 @@
 package de.fabi.backpackplugin;
+/*
+Copyright © 2024 https://github.com/Fabii08?tab=repositories  
+All rights reserved.  
 
+Unauthorized copying, modification, or distribution of this file,  
+via any medium, is strictly prohibited.  
+
+DO NOT DISTRIBUTE.
+*/
 import de.fabi.backpackplugin.Listeners.BackpackListener;
 import de.fabi.backpackplugin.Listeners.Openbackpack;
 import de.fabi.backpackplugin.commands.BackpackCommand;
