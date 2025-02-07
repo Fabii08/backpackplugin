@@ -1,7 +1,0 @@
-name: backpackplugin
-version: '1.0'
-main: de.fabi.backpackplugin.Backpackplugin
-api-version: '1.21'
-commands:
-  backpack:
-    aliases: bp
