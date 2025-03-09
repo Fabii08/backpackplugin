@@ -1,13 +1,9 @@
-package de.fabi.backpackplugin.commands;
 /*
-Copyright © 2024 https://github.com/Fabii08?tab=repositories  
+Copyright © 2025 https://github.com/Fabii08?tab=repositories  
 All rights reserved.  
-
-Unauthorized copying, modification, or distribution of this file,  
-via any medium, is strictly prohibited.  
-
-DO NOT DISTRIBUTE.
 */
+package de.fabi.backpackplugin.commands;
+
 
 import de.fabi.backpackplugin.logic.BackpackManager;
 import org.bukkit.Bukkit;
